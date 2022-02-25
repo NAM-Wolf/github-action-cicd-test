@@ -1,8 +1,8 @@
-# GitHub Actions Part-1 Basics
+# GitHub Actions CI/CD Test
 
 
 Status of Last Deployment:<br>
-<img src="https://github.com/adv4000/github-actions-part-1-basics/workflows/My-GitHubActions-Basics/badge.svg?branch=master"><br>
+<img src="https://github.com/adv4000/NAM-Wolf/github-actions-cicd-test/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
 
 
-Copyleft by Denis Astahov ADV-IT 2019.
+Copyleft by Alexey Nalivayko NAM-Wolf 2022.
